@@ -1,4 +1,4 @@
-# ASMI-ASMI-Adaptive-Slot-Management-for-Efficient-RAW-Operation-in-IEEE-802.11ah
+# ASMI:Adaptive-Slot-Management-for-Efficient-RAW-Operation-in-IEEE-802.11ah
 
 # Abstract
 IEEE 802.11ah introduces the Restricted Access
